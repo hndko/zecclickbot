@@ -1,11 +1,11 @@
 # Link BTCClickBot Telegram
-Hargai Refferal : https://t.me/BitcoinClick_bot?start=Q2tI
+Hargai Refferal : https://t.me/Zcash_click_bot?start=YmCx
 
 # Cara Install 
 $ apt update && pkg upgrade<br>
 $ apt install python git<br>
-$ git clone https://github.com/kyuoko/btcclickbot<br>
-$ cd btcclickbot<br>
+$ git clone https://github.com/kyuoko/zecclickbot<br>
+$ cd zecclickbot<br>
 $ pip3 install -r requirements.txt<br>
 $ python3 main.py phone_number<br>
 

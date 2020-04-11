@@ -1,4 +1,4 @@
-# Link BTCClickBot Telegram
+# Link ZECClickBot Telegram
 Hargai Refferal : https://t.me/Zcash_click_bot?start=YmCx
 
 # Cara Install 
